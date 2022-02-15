@@ -9,5 +9,5 @@ data:
   AWS_REGION: ap-northeast-1
   AWS_PROFILE: udacity
   JWT_SECRET: testing
-  URL: http://a233dca5c693b44b4940861fef756f72-1398521810.ap-northeast-1.elb.amazonaws.com:8100
+  URL: http://a4ee79557d8e04b9cb6e52499206e696-1974664778.ap-northeast-1.elb.amazonaws.com:8100
   # URL: http://localhost:8100
